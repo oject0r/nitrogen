@@ -11,7 +11,7 @@
 
 Nitro Generator requires [Python](https://python.org/) v3.4+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies
 
 ```
 git clone https://github.com/ojectorYT/NitroGen
